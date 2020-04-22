@@ -1,1 +1,1 @@
-# i3-config
+To use just copy then into your .config folder
